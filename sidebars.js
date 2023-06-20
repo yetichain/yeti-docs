@@ -86,7 +86,7 @@ module.exports = {
     "bridge-to-antofy",
     {
       type: "category",
-      label: "Antofy",
+      label: "YETI",
       link: {
         type: "generated-index",
       },
