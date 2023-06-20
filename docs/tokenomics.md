@@ -60,6 +60,8 @@ Even Bitcoin, having most of its coins already created and its issuance signific
 
 Within standard single-coin tokenomics, it is impossible to balance the user costs with the node owners' revenues because of the real-world coin price volatility. But this balance is crucial for customer availability if blockchain provides unique functionality.
 
+![yeti-1](img/yeti-3.png)
+
 ## YETI Tokenomics
 
 So YETI tokenomics uses two coins: YET and BUSD/USDT (YETS on YETI Network) Their supply is managed by YETI Grinder, which is essentially an automated central bank.
