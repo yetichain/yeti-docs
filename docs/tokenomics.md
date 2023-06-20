@@ -1,8 +1,14 @@
 ---
-description: Uniting the interests of system participants
+id: tokenomics
+title: 📍 Tokenomics
+sidebar_label: tokenomics
+description: The journey to the Moon and beyond.
+keywords:
+  - yeti
+  - yet
+  - token
+  - yet tokenomics
 ---
-
-# 🪙 Tokenomics
 
 ## One currency is not enough
 
