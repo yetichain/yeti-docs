@@ -1,14 +1,12 @@
 ---
 id: features
-title: Features
-sidebar_label: Features
+title: 🌟 Features
+sidebar_label: 🌟 Features
 description: Antofy is made of innovations
 keywords:
   - antofy
   - abny
 ---
-
-# 🌟 Features
 
 The logic of Antofy grew from a single Big Idea, which is still early to unveil. It is amazing how the architecture of the blockchain self-assembled around it, as if the puzzle pieces fell into place. The result is a next-generation blockchain project that solves almost all existing problems and stands out among other networks with a set of unique features, any one of which would be sufficient for success on its own.
 
