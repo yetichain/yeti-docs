@@ -1,23 +1,23 @@
 ---
 id: positioning
-title: Antofy is not yet another blockchain
+title: YETI is not yet another blockchain
 sidebar_label: Positioning
-description: Antofy provides a complete EVM-like experience for Developers and Users alike. Simply switch to the Antofy network and start building on a network with much higher throughput and lower fees.
+description: YETI provides a complete EVM-like experience for Developers and Users alike. Simply switch to the YETI network and start building on a network with much higher throughput and lower fees.
 keywords:
-  - Antofy
+  - YETI
   - develop
-  - abn
+  - yet
   - deploy smart contracts
-  - connecting to Antofy
+  - connecting to YETI
 ---
 
 :::caution Risks
 
-To see the potential list of risks associated with the use of Antofy, check out the [<ins>Risks FAQ</ins>](/risk-disclosure.md) section.
+To see the potential list of risks associated with the use of YETI, check out the [<ins>Risks FAQ</ins>](/risk-disclosure.md) section.
 
 :::
 
-Antofy is a next-generation innovative blockchain. And this is not just a marketing slogan! It is hard to tell what aspect of blockchain technology was left unchanged during the Antofy development.
+YETI is a next-generation innovative blockchain. And this is not just a marketing slogan! It is hard to tell what aspect of blockchain technology was left unchanged during the YETI development.
 
 You can learn more about the unique technological approaches in the related sections. But more important than any technical solution is the problem the computer system solves.
 
@@ -35,6 +35,6 @@ Ethereum is a computer, not a bank!
 
 And since everyone can write programs for that computer - no wonder it is overflowing with malware. It happens because developers can leave backdoors, which will be difficult to find even for a professional. Therefore, at the level of smart contracts, there is no trust that many blockchain evangelists declare. Nowadays, the fraud level in the blockchain space is almost the same as in the medieval market. Many pickpockets are trying to steal your money, while scammers want to swindle for their own good.
 
-We see the task of Antofy not to be another decentralized bank or computer but to create a convenient and safe economic environment. Where the system will warn you if you try to send money to a smart contract that can be emptied by its owner. Where if you want to look into the logic of a smart contract, you do not have to be a developer to understand it. Where anyone, not even a programmer, may implement quite complex counterparty interactions. And where even the stolen seed phrase does not grant access to the user's funds.
+We see the task of YETI not to be another decentralized bank or computer but to create a convenient and safe economic environment. Where the system will warn you if you try to send money to a smart contract that can be emptied by its owner. Where if you want to look into the logic of a smart contract, you do not have to be a developer to understand it. Where anyone, not even a programmer, may implement quite complex counterparty interactions. And where even the stolen seed phrase does not grant access to the user's funds.
 
-And if Bitcoin is a solid bank and Ethereum is a reliable computer, then **Antofy is a safe market**.
+And if Bitcoin is a solid bank and Ethereum is a reliable computer, then **YETI is a safe market**.
