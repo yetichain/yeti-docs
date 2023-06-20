@@ -1,7 +1,7 @@
 ---
 id: general-faq
-title: General FAQs related to Antofy Blockchain
-sidebar_label: General FAQs
+title: 🧩 General FAQs related to Antofy Blockchain
+sidebar_label: 🧩 General FAQs
 description: This document compiles some of the general frequently asked questions related to the Antofy Blockchain.
 keywords:
   - antofy
