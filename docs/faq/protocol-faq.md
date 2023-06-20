@@ -1,7 +1,7 @@
 ---
 id: protocol-faq
-title: YETI Protocol FAQs
-sidebar_label: Protocol FAQs
+title: ⛑ YETI Protocol FAQs
+sidebar_label: ⛑ Protocol FAQs
 description: This document compiles some of the frequently asked questions related to the YETI Blockchain protocol.
 keywords:
   - yeti
