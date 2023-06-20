@@ -2,9 +2,9 @@
 id: sequencer-resistance
 title: Resistance To Trusted Sequencer's Censorship Or Malfunction
 sidebar_label: Trusted Sequencer
-description: A guide to help developers understand the unique censorship and malfunction resistance methods of Antofy Blockchain.
+description: A guide to help developers understand the unique censorship and malfunction resistance methods of YETI Blockchain.
 keywords:
-  - antofy
+  - YETI
   - protocol
   - abn
   - censorship resistance
