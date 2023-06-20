@@ -4,7 +4,7 @@ title: Architecture
 sidebar_label: Architecture
 description: New architecture for decentralized systems.
 keywords:
-  - antofy
+  - yeti
   - abn
   - decentralized
 ---
@@ -141,15 +141,15 @@ Third, the system's stability to malicious behavior of the participants is a rat
 
 Fourth, limited access to hierarchical layers means dynamic node rotation, which requires a relatively quick and easy inclusion in blockchain support without downloading hundreds of gigabytes.
 
-### Antofy public cluster
+### YETI public cluster
 
-The Antofy public cluster consists of three hierarchical layers connected vertically: an assertion layer, an address layer, and an assembly layer.
+The YETI public cluster consists of three hierarchical layers connected vertically: an assertion layer, an address layer, and an assembly layer.
 
 The assertion and address layers are formed as peer-to-peer networks. While the assertion layer has an unstructured topology, the address layer has a structured topology.
 
 The entire cluster acts as a server, providing service to clients connecting to the address layer.
 
-![Antofy pubilc cluster](img/242988712-4dc7bd70-1482-4240-841a-ce4fffe9c2ff.png)
+![YETI pubilc cluster](img/242988712-4dc7bd70-1482-4240-841a-ce4fffe9c2ff.png)
 
 #### Assertion layer
 
@@ -161,13 +161,13 @@ The only thing an evil Keeper can do to harm the system is not to work. More pre
 
 #### Address layer
 
-Most of the tasks on the Antofy network are performed on the address layer by Routers. They maintain the blockchain, verify transactions and blocks, function as network gateways, and act as the core mail service for sending tokens between users.
+Most of the tasks on the YETI network are performed on the address layer by Routers. They maintain the blockchain, verify transactions and blocks, function as network gateways, and act as the core mail service for sending tokens between users.
 
 Forming a structured address ring is one of the most important architectural features of the address layer. Routers, acting as gateways, connect Workers and Wallets to the address ring, effectively creating a consistent network for clients with a single address space based on the blockchain addresses.
 
 A single address space effectively solves many problems decentralized systems face, from user-friendly client-server interaction to the addressable forwarding of crypto assets and information.
 
-*In other words, the user's wallet program will not connect to proprietary servers, as with virtually all current solutions, but to one of the Routers. In addition, sending requests to a specific wallet and receiving a response from it will be possible in the Antofy network.*
+*In other words, the user's wallet program will not connect to proprietary servers, as with virtually all current solutions, but to one of the Routers. In addition, sending requests to a specific wallet and receiving a response from it will be possible in the YETI network.*
 
 In addition to their primary tasks at the address level, Routers also act as a liaison to tie the entire cluster together. This is achieved through vertical layer integration, as Workers and Wallets connect to Routers, which in turn must be connected to Keepers.
 
@@ -181,13 +181,13 @@ It is worth noting that the Worker's task is only to create a new block, not to 
 
 Separating the new block creation (which requires checking the correctness of the previous chain) into a distinct role brings much greater decentralization of the nodes that support and check the system's work. At the same time, this approach reduces as much as possible the technical entry barrier for node owners - only a program running on a home computer or laptop that does not consume many resources is required.
 
-*A relatively close analogy for describing the architecture of Antofy can be a bank. Thus, the Keepers correspond to the bank's board of directors, which decides critical issues and is the only source of truth. Routers can be compared to a network of branches, which regular customers can visit to make transfers, as well as Workers, who perform specific tasks for a reward.*
+*A relatively close analogy for describing the architecture of YETI can be a bank. Thus, the Keepers correspond to the bank's board of directors, which decides critical issues and is the only source of truth. Routers can be compared to a network of branches, which regular customers can visit to make transfers, as well as Workers, who perform specific tasks for a reward.*
 
-#### The launch and the size of the Antofy public cluster
+#### The launch and the size of the YETI public cluster
 
-To be able to connect to each of Antofy's hierarchical layers, one of the unique non-tradable on-chain assets will be required: Bronze (Workers), Silver (Routers), and Gold (Keepers).
+To be able to connect to each of YETI's hierarchical layers, one of the unique non-tradable on-chain assets will be required: Bronze (Workers), Silver (Routers), and Gold (Keepers).
 
-The blockchain system of distributing these assets to all participants involved in Antofy will be launched sometime after the system's launch. Initially, the public cluster will be formed by participants who have successfully passed the Pioneer Program. Pioneers will be able to launch their nodes on one of the hierarchical layers, depending on the results they achieve in the Program.
+The blockchain system of distributing these assets to all participants involved in YETI will be launched sometime after the system's launch. Initially, the public cluster will be formed by participants who have successfully passed the Pioneer Program. Pioneers will be able to launch their nodes on one of the hierarchical layers, depending on the results they achieve in the Program.
 
 
 *There will be selected 70 participants for the assertion layer, 500 for the address layer, and over 1000 for the assembly layer. External users will not be able to join any layer before launching a Bronze, Silver, and Gold distribution. From the initial launch of the system until the start of the distribution system, the public cluster will operate in a test mode with a reward for pioneers in the form of a real sABN.*
@@ -214,9 +214,9 @@ Since the amount of Silver held by each Router will be different, at a certain p
 
 ## Summary
 
-The Antofy public cluster's hierarchy and logic allow it to achieve several contradictory goals.
+The YETI public cluster's hierarchy and logic allow it to achieve several contradictory goals.
 
-First, an opportunity arises to bring back the spirit of the early days of the crypto-industry, when to enter the world of cryptocurrencies, you didn't even have to buy them - you just had to run a program on your home computer and after a while the cryptocurrency appeared in your wallet all by itself. In Antofy, we will bring that utopia back.
+First, an opportunity arises to bring back the spirit of the early days of the crypto-industry, when to enter the world of cryptocurrencies, you didn't even have to buy them - you just had to run a program on your home computer and after a while the cryptocurrency appeared in your wallet all by itself. In YETI, we will bring that utopia back.
 
 Second, since there are relatively few Keepers participating in the consensus, the time of agreeing on a new block will be minimal because the most significant influence on the speed of the agreement is the time of information distribution over the network, which is higher as more nodes form the network. The consensus is achieved on the most protected hierarchical layer, which excludes many types of attacks (including Sybil and DDoS attacks). However, a new attack vector opens up, which we will discuss separately in the consensus section.
 
