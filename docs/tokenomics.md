@@ -171,6 +171,7 @@ $$
 Fee=\frac{0.01\ast YETS_{supply}}{0.01\ast YETS_{supply}+TXN_{daily}}
 $$
 
+![image](img/yeti-5.png)
 
 #### YETS Issuance
 
