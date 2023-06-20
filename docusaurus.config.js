@@ -103,7 +103,7 @@ module.exports = {
           ]
         },
         {
-          title: "Use Antofy",
+          title: "Use YETI",
           items: [
             {
               href: 'https://yetichain.finance',
@@ -142,14 +142,14 @@ module.exports = {
           items: [
             {
               href: 'https://yetichain.com',
-              label: 'Antofy Support',
+              label: 'YETI Support',
             },
             {
-              label: "Advocate Antofy",
+              label: "Advocate YETI",
               href: "https://yetichain.com"
             },
             {
-              label: "Antofy Funds",
+              label: "YETI Funds",
               href: "https://yetichain.com"
             },
             {
@@ -250,31 +250,31 @@ module.exports = {
           position: "right",
           items: [
             {
-              href: 'https://antofy.io',
+              href: 'https://yetichain.com',
               label: 'Blockchain',
               target: '_blank',
               rel: null,
             },
             {
               href: '/',
-              label: 'Antofy',
+              label: 'YETI',
               target: '_self',
               rel: null,
             },
             {
-              href: 'https://antofy.money',
-              label: 'Money',
+              href: 'https://yetidex.com',
+              label: 'DEX',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://antofy.ai',
+              href: '#',
               label: 'AI',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://antofy.finance',
+              href: 'https://yetichain.finance',
               label: 'Finance',
               target: '_blank',
               rel: null,
@@ -282,13 +282,13 @@ module.exports = {
           ],
         },
         {
-          href: "https://github.com/antofy",
+          href: "https://github.com/yetichain",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
         },
         {
-          href: "https://twitter.com/0xantofy",
+          href: "https://twitter.com/yetichain",
           position: "right",
           className: "header-twitter-link",
         },
@@ -310,7 +310,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/antofy/antofy-docs/tree/main/",
+          editUrl: "https://github.com/yetichain/yeti-docs/tree/main/",
           path: "docs",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
