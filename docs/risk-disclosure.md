@@ -1,7 +1,7 @@
 ---
 id: risk-disclosure
-title: YETI Risk Disclosures
-sidebar_label: Risk Disclosures
+title: ❗️ YETI Risk Disclosures
+sidebar_label: ❗️Risk Disclosures
 description: This article explains the potential risks associated with using YETI Mainnet Beta.
 keywords:
   - YETI
