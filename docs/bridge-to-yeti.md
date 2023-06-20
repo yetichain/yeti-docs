@@ -1,11 +1,11 @@
 ---
-id: bridge-to-antofy
+id: bridge-to-yeti
 title: Bridge Assets to YETI
 sidebar_label: Bridge to YETI
 description: Learn how to bridge assets from Ethereum to YETI using the Wallet Suite.
 keywords:
   - YETI
-  - abn
+  - yet
   - wallet
   - Bridge to YETI
   - guide
