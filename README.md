@@ -1,17 +1,11 @@
-<br>
-
-<p align="center">
-<img align="center" src="/static/img/aNtofydds.png" width="300">
-</p>
-
-<br>
-
-Antofy Documentation is the documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building on Antofy.
 
 
-## Contribute to Antofy
+Yeti Documentation is the documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building on Yeti.
 
-We believe one of the things that makes Antofy Labs unique is its coherent design, and we seek to retain this defining 
+
+## Contribute to Yeti
+
+We believe one of the things that makes Yeti Chain unique is its coherent design, and we seek to retain this defining 
 characteristic across all our solutions. We have defined some guidelines to ensure new contributions only ever enhance the 
 developer docs from the outset.
 
@@ -30,20 +24,20 @@ Note that on macOS, you also need Xcode and Command Line Tools.
 2. Clone your forked repo.
    
     ```
-    git clone git@github.com:[your_github_handle]/antofy-docs
+    git clone git@github.com:[your_github_handle]/yeti-docs
     ```
 
 3. Navigate into the cloned folder.
    
     ```
-    cd antofy-docs
+    cd yeti-docs
     ```
 
 4. Link your cloned repo to the upstream repo.
    > For help, see [GitHub Docs: Configuring a remote for a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork).
    
     ```
-    git remote add upstream https://github.com/maticnetwork/antofy-docs
+    git remote add upstream https://github.com/maticnetwork/yeti-docs
     ```
 
 5. If you have already cloned the repository, be sure to sync your fork with the latest changes. 
