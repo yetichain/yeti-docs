@@ -18,7 +18,7 @@ module.exports = {
     "funding",
     {
       type: "category",
-      label: "Antofy Protocol",
+      label: "YETI Protocol",
       link: {
         type: "generated-index",
       },
@@ -57,7 +57,7 @@ module.exports = {
         },
         {
           type: "category",
-          label: "Antofy Bridge",
+          label: "YETI Bridge",
           link: {
             type: "generated-index",
           },
