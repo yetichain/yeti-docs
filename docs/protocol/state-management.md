@@ -1,11 +1,11 @@
 ---
 id: state-management
-title: Antofy Blockchain State Management
+title: YETI Blockchain State Management
 sidebar_label: State Management
-description: This document explains how the Antofy Blockchain Protocol manages L2 Rollup's states while providing state transition verifiability and security.
+description: This document explains how the YETI Blockchain Protocol states while providing state transition verifiability and security.
 keywords:
-  - antofy
-  - abn
+  - yeti
+  - yet
   - protocol
   - State Management
   - trustless
@@ -15,4 +15,4 @@ keywords:
   - consolidated state
 ---
 
-This document aims to explain how the Antofy Blockchain Protocol manages the L2 Rollup's states while providing state transition verifiability and security.
+This document aims to explain how the YETI Blockchain Protocol manages the states while providing state transition verifiability and security.
