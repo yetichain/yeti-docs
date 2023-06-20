@@ -1,7 +1,7 @@
 ---
 id: roadmap
 title: 📍 Roadmap
-sidebar_label: Roadmap
+sidebar_label: 📍 Roadmap
 description: The journey to the Moon and beyond.
 keywords:
   - antofy
