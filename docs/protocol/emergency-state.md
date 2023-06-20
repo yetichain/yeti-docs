@@ -1,12 +1,12 @@
 ---
 id: emergency-state
-title: Emergency State in Antofy
+title: Emergency State in YETI
 sidebar_label: Emergency State
-description: The emergency state is a Consensus Contract state that, when activated, terminates batch sequencing and bridge operations. It is a security measure used to protect users' assets in Antofy.
+description: The emergency state is a Consensus Contract state that, when activated, terminates batch sequencing and bridge operations. It is a security measure used to protect users' assets in YETI.
 keywords:
-  - antofy
+  - yeti
   - protocol
-  - abn
+  - yet
   - emergency state
   - Consensus Contract
   - pending state
