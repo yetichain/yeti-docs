@@ -1,11 +1,11 @@
 ---
 id: protocol-faq
-title: Antofy Protocol FAQs
+title: YETI Protocol FAQs
 sidebar_label: Protocol FAQs
-description: This document compiles some of the frequently asked questions related to the Antofy Blockchain protocol.
+description: This document compiles some of the frequently asked questions related to the YETI Blockchain protocol.
 keywords:
-  - antofy
-  - abn
+  - yeti
+  - yet
   - protocol faq
   - transactions
   - sequencer
@@ -17,6 +17,6 @@ keywords:
   - emergency state
 ---
 
-This document compiles some of the frequently asked questions related to the Antofy Blockchain protocol. For more details, check out [this documentation](/protocol/introduction.md).
+This document compiles some of the frequently asked questions related to the YETI Blockchain protocol. For more details, check out [this documentation](/protocol/introduction.md).
 
 ---
