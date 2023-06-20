@@ -4,44 +4,47 @@ title: 📍 Roadmap
 sidebar_label: 📍 Roadmap
 description: The journey to the Moon and beyond.
 keywords:
-  - antofy
-  - abn
+  - yeti
+  - yet
   - roadmap
   - token
 ---
+## December 2022
 
-
-* [x] Birth of the Antofy
-* [x] Launch of the Antofy website
+* [x] Birth of the YETI
+* [x] Launch of the YETI website
 * [x] Elaboration of the Tokenomics design details
 * [x] Elaboration of the Consensus design details
 * [x] Development of the Tokenomics simulation
 
-### (work in progress)
+## Q1 - 2023
 
 * [x] Publication of the Introduction section of the documentation
 * [x] Elaboration of the Message Routing design details
 * [x] Elaboration of the mechanics
 * [x] Publication of the documents
-* [x] Antofy Dex Aggregator Launch
+* [x] YETI Dex Aggregator Launch
+* [x] Launch of the Multi Chain Chrome Wallet Extension
+* [x] Adding Access of EVM Chains, Parachains, Canto, and the Bitcoin Network all with one account from Wallet Extension
 
-### (Q3-Q4 2023)
+## Q2 - 2023
 
 * [x] Publication of the Tokenomics section
 * [x] Blockchain selection for ABN token
 * [x] Detailing of the Antofy blockchain architecture
 * [x] Development of docs Portal
-* [x] ABN Trading Pool Launch (BNB/USDT)
-* [x] ABN First CEX Listing
-* [ ] Antofy Bridge Launch
-* [ ] Antofy Dex Launch
-* [ ] Antofy Explorer Launch
-* [ ] Antofy Dex Staking Launch
+* [ ] YET Token Binance/Ethereum Fairlaunch
+* [ ] YETI First CEX Listing
 
-### Antofy Rollups launch (Q3 2024)
 
-* [ ] Launch of the Antofy Blockchain Rollups
-* [ ] Development of the  Rollups Bridge Portal interface
+## Q3 - 2023
+
+* [ ] Publication of the blockchain documentation sections:\ - Node\ - Validador\ - Scaling\ - Consensus\ - Smart Contracts\ - Wallet
+* [ ] Adding Multichain Marketplace in Wallet Extension
 * [ ] Writing the article: Public Cluster&#x20;
-* [ ] Designing the Rollups eco system
+
+## Q4 - 2023
+* [ ] Development of the YETI blockchain
+* [ ] Launch of TestNet
+
 
