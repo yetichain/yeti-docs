@@ -1,10 +1,10 @@
 ---
 id: l2-transaction-cycle-intro
-title: Transaction Life Cycle in Antofy
+title: Transaction Life Cycle in YETI
 sidebar_label: Submit Transaction
-description: A guide to help developers and researchers understand the transaction life cycle in Antofy Blockchain.
+description: A guide to help developers and researchers understand the transaction life cycle in YETI Blockchain.
 keywords:
-  - antofy
+  - yeti
   - protocol
   - abn
   - Submit Transaction
