@@ -2,9 +2,9 @@
 id: transaction-aggregation
 title: Batch Aggregation and Consolidated State
 sidebar_label: Batch Aggregation
-description: A guide to help developers understand the transaction life cycle in Antofy Blockchain.
+description: A guide to help developers understand the transaction life cycle in YETI Blockchain.
 keywords:
-  - antofy
+  - yeti
   - abn
   - protocol
   - Batch Aggregation
@@ -16,8 +16,7 @@ keywords:
 
 :::info
 
-This document is a continuation in the series of articles explaining the [<ins>Transaction Life Cycle</ins>](l2-transaction-cycle-intro.md) inside Antofy Blockchain.
+This document is a continuation in the series of articles explaining the [<ins>Transaction Life Cycle</ins>](l2-transaction-cycle-intro.md) inside YETI Blockchain.
 
 :::
 
-The **Trusted Aggregator should eventually aggregate the sequences of batches previously committed by the Trusted Sequencer in order to achieve the L2 State final stage**, which is the Consolidated State.
