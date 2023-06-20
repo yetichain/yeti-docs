@@ -1,6 +1,6 @@
 ---
 id: roadmap
-title: Roadmap
+title: 📍 Roadmap
 sidebar_label: Roadmap
 description: The journey to the Moon and beyond.
 keywords:
@@ -9,8 +9,6 @@ keywords:
   - roadmap
   - token
 ---
-
-# 📍 Roadmap
 
 
 * [x] Birth of the Antofy
