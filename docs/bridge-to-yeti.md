@@ -32,11 +32,11 @@ Check out this video guide on **how to bridge tokens from L1 to the YETI Testnet
 
 :::tip Quick Connect
 
-You can **add YETI Network to your wallet** instantly by clicking the **Add zkEVM Network** button on the [<ins>YETI Documentation</ins>](/) website.
+You can **add YETI Network to your wallet** instantly by clicking the **Add YETI Network** button on the [<ins>YETI Documentation</ins>](/) website.
 
 :::
 
-You can follow this **step-by-step guide** to learn how to bridge assets from Ethereum Mainnet &rarr; Polygon zkEVM Mainnet Beta and vice-versa.
+You can follow this **step-by-step guide** to learn how to bridge assets from Ethereum Mainnet &rarr; YETI Mainnet Beta and vice-versa.
 
 - On the [YETI website](https://bridge.yetichain.com/), you can find a tab to access:
 
