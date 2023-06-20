@@ -1,7 +1,7 @@
 ---
 id: positioning
-title: YETI is not yet another blockchain
-sidebar_label: Positioning
+title: 📌 YETI is not yet another blockchain
+sidebar_label: 📌 Positioning
 description: YETI provides a complete EVM-like experience for Developers and Users alike. Simply switch to the YETI network and start building on a network with much higher throughput and lower fees.
 keywords:
   - YETI
