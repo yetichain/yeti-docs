@@ -69,7 +69,7 @@ Also, we are pretty sure that it is impossible to create a single-coin tokenomic
 <table><thead><tr><th width="194">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Total Supply</td><td>3,000,000,000</td></tr><tr><td>Circulating Supply</td><td>Fairlaunch</td></tr><tr><td>Decimal</td><td>9</td></tr><tr><td>Transaction Fee</td><td>1% Buy tax (BUSD/USDT Reflections for YET Holders) 1% Sell tax (Marketing/Listing Expenses)</td></tr><tr><td>Grinder Balancer</td><td>1% Sell tax (80% BUSD/USDT Reflections for YET Holders, 20% Development/Listing Expenses)<br /> 1% Buy tax (80% Burn, 20% Development/Listing Expenses)</td></tr><tr><td>Contract Binance</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr><tr><td>Contract Ethereun</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr></tbody></table>
 
 
-### YET Coin
+### YET Coin YETI Chain
 
 <table><thead><tr><th width="177">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Total Supply</td><td>3 000 000 000 YETs</td></tr><tr><td>Utility</td><td>YET is used to issue YETS</td></tr><tr><td>Issuance</td><td>Can be minted only as validator's reward</td></tr><tr><td>Burning</td><td>A part of YET while minting YETS is burned </td></tr></tbody></table>
 
