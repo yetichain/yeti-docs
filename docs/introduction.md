@@ -1,11 +1,11 @@
 ---
 id: introduction
-title: Introduction to YETI
-sidebar_label: Introduction
+title: 🎯 Introduction to YETI
+sidebar_label: 🎯 Introduction
 description: YETI is a decentralized Ethereum Layer 1 Blockchain that uses cryptographic proofs to offer validity and quick finality to off-chain transaction computation.
 keywords:
-  - antofy
-  - abn
+  - yeti
+  - yet
   - introduction
   - scaling ethereum
   - zero knowledge proofs
