@@ -78,7 +78,7 @@ The coincidence of interests is not just a theoretical concept. When applied to 
 
 Also, we are pretty sure that it is impossible to create a single-coin tokenomics model in which transaction growth results in gains for all participants, so YETI tokenomics uses two coins: YETS and YET. Their supply is managed by YETI Grinder, which is essentially an automated central bank.
 
-### YET Token on Binance/Ethereum Token
+### YET Token on Binance/Ethereum Chain
 
 <table><thead><tr><th width="194">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Total Supply</td><td>3,000,000,000</td></tr><tr><td>Circulating Supply</td><td>100% by Public Fair Launch</td></tr><tr><td>Decimal</td><td>9</td></tr><tr><td>Transaction Fee</td><td>1% Buy tax (BUSD/USDT Reflections for YET Holders) <br /> 1% Sell tax (Marketing/Listing)</td></tr><tr><td>Grinder Balancer</td><td>1% Sell tax (80% BUSD/USDT Reflections for YET Holders, 20% Development/Listing)<br /> 1% Buy tax (80% Burn, 20% Development/Listing)</td></tr><tr><td>Contract Binance</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr><tr><td>Contract Ethereun</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr></tbody></table>
 
