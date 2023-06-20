@@ -1,3 +1,4 @@
+
 /**
  * Copyright (c) 2017-present, Facebook, Inc.
  *
@@ -62,7 +63,7 @@ module.exports = {
             type: "generated-index",
           },
           items: [
-            "protocol/antofy-bridge",
+            "protocol/yeti-bridge",
             "protocol/exit-tree",
             "protocol/bridge-smart-contract",
             "protocol/flow-of-asset",
@@ -83,7 +84,7 @@ module.exports = {
       className: "sidebar-title",
     },
     "positioning",
-    "bridge-to-antofy",
+    "bridge-to-yeti",
     {
       type: "category",
       label: "YETI",
