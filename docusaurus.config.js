@@ -6,7 +6,7 @@ module.exports = {
   tagline: "The official developer documentation portal for YETI Blockchain.",
   url: "https://docs.yetichain.com",
   baseUrl: "/",
-  favicon: "/img/logo-abn.svg",
+  favicon: "/img/logo.svg",
   organizationName: "yeti",
   projectName: "yeti-docs",
   customFields: {
