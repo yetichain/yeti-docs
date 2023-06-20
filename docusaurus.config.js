@@ -2,15 +2,15 @@ const math = require('remark-math');
 const katex = require('rehype-katex');
 
 module.exports = {
-  title: "Antofy Documentation",
-  tagline: "The official developer documentation portal for Antofy Blockchain.",
-  url: "https://docs.antofy.io",
+  title: "YETI Documentation",
+  tagline: "The official developer documentation portal for YETI Blockchain.",
+  url: "https://docs.yetichain.com",
   baseUrl: "/",
   favicon: "/img/logo-abn.svg",
-  organizationName: "antofy",
-  projectName: "antofy-docs",
+  organizationName: "yeti",
+  projectName: "yeti-docs",
   customFields: {
-    description: "Build your next blockchain dApp on Antofy Network.",
+    description: "Build your next blockchain dApp on YETI Network.",
   },
   i18n: {
     defaultLocale: 'en',
@@ -29,12 +29,12 @@ module.exports = {
 
   onBrokenLinks: 'log',
   themeConfig: {
-    metadata: [{name: 'description', content: 'Welcome to Antofy Documentation, the official documentation portal for Antofy world.'}],
+    metadata: [{name: 'description', content: 'Welcome to YETI Documentation, the official documentation portal for YETI world.'}],
     announcementBar: {
       id: 'banner',
       content: `
         <div class="announcement-bar">
-          Antofy testnet Beta is now Live! 
+          YETI testnet Beta is now Live! 
           <a href="/docs/positioning" class="announcement-link" style="color: #ffffff;">Positioning</a>
           <a href="/docs/risk-disclosure" class="announcement-link" style="color: #ffffff;">Risks</a>
         </div>
@@ -53,27 +53,27 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: "Antofy Labs",
+          title: "YETI Chain",
           items: [
             {
               label: "About Us",
-              href: "https://antofy.com/"
+              href: "https://yetichain.com/"
             },
             {
               label: "Blog",
-              href: "https://antofy.com/blog/"
+              href: "https://medium.com/@yetichain"
             },
             {
               label: "Careers",
-              href: "mailto:https://antofy.com/blog"
+              href: "mailto:https://yetichain.com"
             },
             {
-              label: "ABN Token",
-              href: "https://antofy.finance/swap/bnb/bnb-to-abn"
+              label: "YET Token",
+              href: "https://yetidex.com/swap/bnb/bnb-to-abn"
             },
             {
               label: "Join Us",
-              href: "https://antofy.com/"
+              href: "https://yetichain.com/"
             },
           ]
         },
@@ -81,24 +81,24 @@ module.exports = {
           title: "Ecosystem",
           items: [
             {
-              label: "Antofy Labs",
-              href: "https://antofy.com"
+              label: "YETI Chain",
+              href: "https://yetichain.com"
             },
             {
-              label: "Antofy Finance",
-              href: "https://antofy.finance"
+              label: "YETI Finance",
+              href: "https://yetichain.finance"
             },
             {
-              label: "Antofy Money",
-              href: "https://antofy.money"
+              label: "YETI DEX",
+              href: "https://yetidex.com/"
             },
             {
-              label: "Antofy Games",
-              href: "https://antofy.games"
+              label: "YETI Wallet",
+              href: "https://chrome.google.com/webstore/detail/yeti-web30-blockchain-wal/odpnjmimokcmjgojhnhfcnalnegdjmdn"
             },
             {
-              label: "Antofy AI",
-              href: "https://antofy.ai"
+              label: "Yeti AI",
+              href: "#"
             },
           ]
         },
@@ -106,32 +106,32 @@ module.exports = {
           title: "Use Antofy",
           items: [
             {
-              href: 'https://antofy.finance',
-              label: 'Antofy Finance',
+              href: 'https://yetichain.finance',
+              label: 'YETI Finance',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://staking.antofy.finance',
+              href: 'https://staking.yetichain.com',
               label: 'Staking',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://antofyscan.com/',
-              label: 'Antofy Scan',
+              href: 'https://yetiscan.com/',
+              label: 'YETI Scan',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://antofy.ai/',
-              label: 'Antofy AI',
+              href: '#',
+              label: 'YETI AI',
               target: '_blank',
               rel: null,
             },
             {
-              href: 'https://antofy.money',
-              label: 'Ecosystem dApps',
+              href: 'https://yetidex.com',
+              label: 'Yeti dApps',
               target: '_blank',
               rel: null,
             },
@@ -141,23 +141,23 @@ module.exports = {
           title: "Resources",
           items: [
             {
-              href: 'https://antofy.com',
+              href: 'https://yetichain.com',
               label: 'Antofy Support',
             },
             {
               label: "Advocate Antofy",
-              href: "https://antofy.com"
+              href: "https://yetichain.com"
             },
             {
               label: "Antofy Funds",
-              href: "https://antofy.com"
+              href: "https://yetichain.com"
             },
             {
               label: "Bug Bounty",
-              href: "https://antofy.com"
+              href: "https://yetichain.com"
             },
             {
-              href: 'https://antofy.com',
+              href: 'https://yetichain.com',
               label: 'Build your own dApp',
             },
           ]
@@ -166,20 +166,12 @@ module.exports = {
           title: "Community",
           items: [
             {
-              href: 'https://twitter.com/0xantofy',
+              href: 'https://twitter.com/yetichain',
               label: 'Twitter',
             },
             {
-              href: 'https://t.me/antofygroup',
+              href: 'https://t.me/yetichain',
               label: 'Forum',
-            },
-            {
-              href: 'https://www.reddit.com/r/0xantofy/',
-              label: 'Reddit',
-            },
-            {
-              href: 'https://t.me/antofylabs',
-              label: 'Telegram',
             },
           ]
         },
@@ -187,20 +179,20 @@ module.exports = {
           title: "Legal",
           items: [
               {
-                href: 'https://antofy.com/legal',
+                href: 'https://yetichain.com/terms-conditions',
                 label: 'Terms of Use',
               },
               {
                 label: "Privacy Policy",
-                href: "https://antofy.com/legal"
+                href: "https://yetichain.com/privacy-policy"
               },
               {
                 label: "Cookie Policy",
-                href: "https://antofy.com/legal"
+                href: "https://yetichain.com/cookie-policy"
               },
               {
                 label: "Risks",
-                href: "/docs/risk-disclosure"
+                href: "https://yetichain.com/risk-disclosure"
               },
           ]
         },
@@ -214,7 +206,7 @@ module.exports = {
       additionalLanguages: ['solidity']
     },
     algolia: {
-      indexName: "antofy",
+      indexName: "yeti",
       appId: '7OGWPLU80E',
       apiKey: "43743b7a07c349fb251cea12958582c0",
       contextualSearch: true,
@@ -225,9 +217,9 @@ module.exports = {
     navbar: {
       hideOnScroll: true,
       logo: {
-        alt: "antofy logo",
-        src: "img/antofy.svg",
-        srcDark: "img/antofy.svg",
+        alt: "yeti logo",
+        src: "img/yeti.svg",
+        srcDark: "img/yeti.svg",
         href: '/',
         target: "_self",
        },
