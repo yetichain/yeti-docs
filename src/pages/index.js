@@ -171,7 +171,7 @@ function Home() {
         <section className="newsletter">
           <div className="newsletter_anim-wrapper pb_intersection">
             <div className="animation_embed w-embed w-iframe">
-             <iframe width="560" height="315" src="https://www.youtube.com/embed/bbFXF2V_Cbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               <iframe src="https://www.youtube.com/embed/bbFXF2V_Cbk;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;loop=1&amp;autoplay=1&amp;background=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" style={{position: 'absolute', top:0, left:0, width:'100%', height:'100%'}} title="Hero" data-ready="true"></iframe>    
             </div>
           </div>
           <div className="padding-global">
