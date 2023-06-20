@@ -93,6 +93,8 @@ In YETI, YET is designed for investment purposes and is directly secured by user
 
 Thus, even a constant amount of daily transactions will reduce the overall supply of YET. Therefore, both investors and validators benefit from the network activity since it directly reduces the YET coin supply.
 
+![image](img/yeti-7.png)
+
 #### YET Utility
 
 YET is used by Grinder for YETS issuance. Anyone can put YET coins in the Grinder specifying YET / YETS rate. The Grinder continuously uses the YETs offers with the highest bids to issue YETSs. During the order processing, one part of the YET burns irretrievably, and the other part becomes available for reissue into circulation. It will stop being burned when only 1 000 000 YETs remain.
@@ -104,6 +106,8 @@ YET_{\%burned}\;=\;100\cdot\frac{YET_{grindered}}{YET_{grindered}+10^7}
 $$
 
 When the number of YETs used for YETS issuance exeeds 990 000 000 there will remain only 1 000 000 of YET coins and they will stop burning.
+
+![image](img/yeti-8.png)
 
 #### **YET Issuance**
 
@@ -121,6 +125,8 @@ The Grinder uses a virtual YET system pool to issue YET. The Grinder can only ta
 
 You can imagine - that there is a virtual AMM in Grinder with a pool of **YETS totally minted** / **YET for issuance**. But the calculation of the YET issue is done without having a real AMM - just by the constant product formula.
 
+![image](img/yeti-9.png)
+
 #### YET Circulating Supply
 
 The amount of YET circulating supply depends on the ratio of the YET burning speed to the issuance volume. The YET burning pace is determined primarily by the YET market price. The YET issuance depends on the number of YETSs burned as commissions. Thus, the exact amount of YET in circulation can only be approximated.
@@ -130,6 +136,8 @@ Our simulation shows that though the total supply of YET is 100 000 000, it is u
 The circulating supply of YET is calculated based on a computer model.&#x20;
 
 It assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses YET is directly proportional to the ratio of YETS and YET coins in circulation.
+
+![image](img/yeti-10.png)
 
 #### YETS / YET Rate
 
@@ -190,6 +198,8 @@ YETS_{issuance}=\frac{10^7}{73}\\
 $$
 
 These calculations apply only to newly created YETSs. Simultaneously with the issuance, YETSs will be minted through Grinder to replace the burned commission.
+
+![image](img/yeti-6.png)
 
 #### YETS Circulating Supply
 
