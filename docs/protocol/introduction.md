@@ -1,12 +1,12 @@
 ---
 id: protocol-components
-title: Antofy Blockchain Protocol
+title: YETI Blockchain Protocol
 sidebar_label: Introduction
-description: Antofy Blockchain is a Layer 2 zero-knowledge rollup solution that combines data availability and execution verification in Layer 1 of the Ethereum blockchain to ensure L2 state transition security and reliability.
+description: YETI Blockchain is a Layer 1 blockchain to ensure fast transition security and reliability.
 keywords:
-  - antofy
+  - yeti
   - Ethereum
-  - abn
+  - ye
   - protocol
   - introduction
   - sequencer
@@ -15,8 +15,6 @@ keywords:
   - node execution modes
 ---
 
-Various **Layer 2 solutions** aimed at improving the **scalability of the Ethereum** network, **primarily transaction throughput**, have been developed over the past years. The ultimate and intended benefit for Ethereum network users is a reduction in gas fees, while maintaining decentralisation and security.
+Various **Layer 1 Blockchain** aimed at improving the **scalability**, **transaction throughput**, reduction in gas fees, while maintaining decentralisation and security.
 
-**Antofy Blockchain is a Layer 2 Rollup solution** that combines data availability and **execution verification in Layer 1 of the Ethereum** blockchain to ensure L2 state transition security and reliability.
-
-This section will describe the infrastructure that Antofy designed and implemented for its EVM, with a focus on providing an overview of the components used in the development of the **EVM Protocol**.
+This section will describe the infrastructure that YETI designed and implemented for its EVM, with a focus on providing an overview of the components used in the development of the **EVM Protocol**.
