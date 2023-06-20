@@ -2,11 +2,11 @@
 id: bridge-smart-contract
 title: Smart Contracts
 sidebar_label: Smart Contracts
-description: This document describes how asset transfers are enabled by Antofy Blockchain bridge smart contracts.
+description: This document describes how asset transfers are enabled by YETI Blockchain bridge smart contracts.
 keywords:
-  - antofy
+  - yeti
   - bridge smart contract
-  - abn
+  - yet
   - Global Exit Root Manager Contract
   - Consensus Contract
   - L1 to zkEVM
