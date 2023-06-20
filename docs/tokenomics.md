@@ -13,7 +13,7 @@ keywords:
 ## One currency is not enough
 
   <div align="center">
-  <img src={useBaseUrl("img/yeti-1.webp")} width="400" height="400"/>
+  <img src={useBaseUrl("img/yeti-1.jpg")} width="400" height="400"/>
   </div>
   
 Blockchain can be seen as a system that provides a service for its customers to store data in a decentralized manner. The commission for user transactions acts as payment for the work of nodes. Unlike the real world, where prices are set in fiat currencies, fees for the blockchain service are paid in coins stored within the system. But what kind of changes does this entail?
@@ -22,9 +22,7 @@ Blockchain can be seen as a system that provides a service for its customers to 
 
 The most common tokenomics model today is the one applied 13 years ago for Bitcoin. It implies that the number of coins is limited, and their issuance, which decreases over time to zero, comes as a reward to network nodes for making the system work. Therefore, users must buy them from node owners, often with fiat currency, to interact with the system.
 
-  <div align="center">
-  <img src={useBaseUrl("img/yeti-2.webp")} width="400" height="400"/>
-  </div>
+>
   
 It appears that users still pay nodes of the system in fiat currency but through an intermediate medium in the form of a blockchain coin. This payment arrangement has one indisputable advantage - because the number of coins is limited - when the system's popularity grows, its price skyrockets. But this same property also entails internal contradictions.
 
