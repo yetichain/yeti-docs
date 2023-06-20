@@ -1,12 +1,12 @@
 ---
 id: incentive-mechanism
-title: Antofy Incentive Mechanism
+title: YETI Incentive Mechanism
 sidebar_label: Incentive Mechanism
-description: A guide to help developers understand the incentive mechanisms of Antofy Blockchain.
+description: A guide to help developers understand the incentive mechanisms of YETI Blockchain.
 keywords:
-  - antofy
+  - yeti
   - protocol
-  - abn
+  - yet
   - incentive mechanism
   - transaction fees
   - sequencing fees
