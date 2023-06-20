@@ -1,12 +1,12 @@
 ---
-id: antofy-bridge
-title: Introduction to Antofy Bridge
+id: yeti-bridge
+title: Introduction to YETI Bridge
 sidebar_label: Overview
-description: Antofy Bridge is a component that enables communication and asset migration between the Polygon zkEVM network and other networks, such as the L1 (Ethereum Mainnet) or any L2 built on top of Ethereum.
+description: YETI Bridge is a component that enables communication and asset migration between the YETI network and other networks, such as the L1 (Ethereum Mainnet) or any L2 built on top of Ethereum.
 keywords:
-  - antofy
+  - yeti
   - bridge
-  - abn
+  - yet
   - interoperability
   - Bridge smart contract
   - introduction
