@@ -6,7 +6,6 @@ description: Uniting the interests of system participants
 
 ## One currency is not enough
 
-<figure><img src="../.gitbook/assets/Real world Economicsx2.png" alt=""><figcaption><p>Real-world economics</p></figcaption></figure>
 
 Blockchain can be seen as a system that provides a service for its customers to store data in a decentralized manner. The commission for user transactions acts as payment for the work of nodes. Unlike the real world, where prices are set in fiat currencies, fees for the blockchain service are paid in coins stored within the system. But what kind of changes does this entail?
 
@@ -14,7 +13,6 @@ Blockchain can be seen as a system that provides a service for its customers to 
 
 The most common tokenomics model today is the one applied 13 years ago for Bitcoin. It implies that the number of coins is limited, and their issuance, which decreases over time to zero, comes as a reward to network nodes for making the system work. Therefore, users must buy them from node owners, often with fiat currency, to interact with the system.
 
-<figure><img src="../.gitbook/assets/Standart Tokenomics.png" alt=""><figcaption><p>The most popular blockchain tokenomics</p></figcaption></figure>
 
 It appears that users still pay nodes of the system in fiat currency but through an intermediate medium in the form of a blockchain coin. This payment arrangement has one indisputable advantage - because the number of coins is limited - when the system's popularity grows, its price skyrockets. But this same property also entails internal contradictions.
 
@@ -66,8 +64,6 @@ The coincidence of interests is not just a theoretical concept. When applied to 
 
 Also, we are pretty sure that it is impossible to create a single-coin tokenomics model in which transaction growth results in gains for all participants, so YETI tokenomics uses two coins: YETS and YET. Their supply is managed by YETI Grinder, which is essentially an automated central bank.
 
-<figure><img src="../.gitbook/assets/YETI Tokenomics.png" alt=""><figcaption><p>YETI Tokenomics</p></figcaption></figure>
-
 ### YET Coin Binance/Ethereum Token
 
 <table><thead><tr><th width="194">Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Total Supply</td><td>3,000,000,000</td></tr><tr><td>Circulating Supply</td><td>Fairlaunch</td></tr><tr><td>Decimal</td><td>9</td></tr><tr><td>Transaction Fee</td><td>1% Buy tax (BUSD/USDT Reflections for YET Holders) 1% Sell tax (Marketing/Listing Expenses)</td></tr><tr><td>Grinder Balancer</td><td>1% Sell tax (80% BUSD/USDT Reflections for YET Holders, 20% Development/Listing Expenses)<br /> 1% Buy tax (80% Burn, 20% Development/Listing Expenses)</td></tr><tr><td>Contract Binance</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr><tr><td>Contract Ethereun</td><td>0xC631d214F68e5FD97Fe610736c6692C5533a2F20</td></tr></tbody></table>
@@ -87,12 +83,6 @@ Thus, even a constant amount of daily transactions will reduce the overall suppl
 
 YET is used by Grinder for YETS issuance. Anyone can put YET coins in the Grinder specifying YET / YETS rate. The Grinder continuously uses the YETs offers with the highest bids to issue YETSs. During the order processing, one part of the YET burns irretrievably, and the other part becomes available for reissue into circulation. It will stop being burned when only 1 000 000 YETs remain.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YET burning.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The percantage of YET burned depends on the amount of YETs put in Grinder for YETS issuance. The formula is:
 
 $$
@@ -100,8 +90,6 @@ YET_{\%burned}\;=\;100\cdot\frac{YET_{grindered}}{YET_{grindered}+10^7}
 $$
 
 When the number of YETs used for YETS issuance exeeds 990 000 000 there will remain only 1 000 000 of YET coins and they will stop burning.
-{% endtab %}
-{% endtabs %}
 
 #### **YET Issuance**
 
@@ -109,12 +97,6 @@ Validators' rewards will be calculated in YETS as the sum of burned commissions 
 
 Since validator rewards are not directly dependent on the specific transactions they process, the distribution of YET among validators can be adjusted based on many factors. In addition, this approach prevents front-running.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YET Issuance.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The YET supply depends on the number of YETSs minted by the Grinder. That includes all newly minted YETSs (issuance and replacement for burned coins). The number of YETs to mint is defined by the formula:
 
 $$
@@ -124,8 +106,6 @@ $$
 The Grinder uses a virtual YET system pool to issue YET. The Grinder can only take YET from there to the extent of the burned commissions and inflation issuance. YET used but not burned during YETS minting returns to this virtual pool. Thus, over time, fewer and fewer YET will be issued as a reward.
 
 You can imagine - that there is a virtual AMM in Grinder with a pool of **YETS totally minted** / **YET for issuance**. But the calculation of the YET issue is done without having a real AMM - just by the constant product formula.
-{% endtab %}
-{% endtabs %}
 
 #### YET Circulating Supply
 
@@ -133,33 +113,17 @@ The amount of YET circulating supply depends on the ratio of the YET burning spe
 
 Our simulation shows that though the total supply of YET is 100 000 000, it is unlikely that there will be more than 20 000 000 YETs in circulation at any given moment.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YET Circulating Supply.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The circulating supply of YET is calculated based on a computer model.&#x20;
 
 It assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses YET is directly proportional to the ratio of YETS and YET coins in circulation.
-{% endtab %}
-{% endtabs %}
 
 #### YETS / YET Rate
 
 The YETS / YET rate depends very much on the initial distribution of coins - therefore, it can even fall during the first few years if the number of transactions is not very high. But in the long term, the amount of YETS in circulation will grow, and the amount of YET will fall after the peak is passed. So, in the long run, depending on the number of transactions in the blockchain, the amount of YETS given per YET will steadily grow.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YETS YET rate.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The YETS / YET rate is calculated based on a computer model as a ratio of the YETS circulating supply and the YET circulating supply.&#x20;
 
-The model assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses YET is directly proportional to the ratio of YETS and YET coins in circulation.
-{% endtab %}
-{% endtabs %}
+The model assumes that the number of transactions grows from 0 to a given number within about half a year, and the rate at which Grinder uses YET is directly proportional to the ratio of YETS and YET coins in
 
 ### YETS Coin
 
@@ -177,12 +141,6 @@ An activity expansion is usually accompanied by coin price growth. Thus, with th
 
 All transaction fees paid in YETS are immediately burned. The base fee rate per transaction is 1 YETS. But since the volume of transactions can be large, too many YETSs can be burned in a short period. Therefore, as the number of transactions increases, the fee is reduced so that no more than 1% of the total YETS supply is burned daily.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/Transaction fee.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The formula defines the target fee cost in YETS depending on the total number of transactions. For the first 1000 days, the formula is:
 
 $$
@@ -194,19 +152,12 @@ After 1000 days the formula changes to account for the YETS inflation:
 $$
 Fee=\frac{0.01\ast YETS_{supply}}{0.01\ast YETS_{supply}+TXN_{daily}}
 $$
-{% endtab %}
-{% endtabs %}
+
 
 #### YETS Issuance
 
 YETS can only be released into circulation by burning YET in the YETI Grinder. There is a queue of orders arranged by the YET / YETS rate for this purpose. The more YETs are offered in exchange for a single YETS, the sooner the Grinder will process that order. The closest analogy to such a queue is exchange limit sell orders, executed by persistent demand from the Grinder.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YETS Issuance.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The mathematical formula defines the YETS issuance depending on the day after the launch. For the first 1000 days, the formula is:
 
 $$
@@ -220,19 +171,11 @@ YETS_{issuance}=\frac{10^7}{73}\\
 $$
 
 These calculations apply only to newly created YETSs. Simultaneously with the issuance, YETSs will be minted through Grinder to replace the burned commission.
-{% endtab %}
-{% endtabs %}
 
 #### YETS Circulating Supply
 
 The YETI Grinder controls the issuance of the YETS coin to reach the target circulating supply determined by a mathematical formula. Since the YETS coin is inflationary and the commissions paid in YETS are burned, there is a constant need to create new YETSs. YETI Grinder will print YETSs providing the necessary issuance and replacing burned YETS coins to reach the target YETS circulating supply.
 
-{% tabs %}
-{% tab title="Chart" %}
-<figure><img src="../.gitbook/assets/YETS Supply.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Details" %}
 The mathematical formula defines the target supply depending on the day after the launch. For the first 1000 days, the formula is:
 
 $$
@@ -244,8 +187,7 @@ After 1000 days the formula changes to keep the constant inflation rate:
 $$
 YETS_{supply}=\frac{10^7}{73}\cdot\left(day+6300\right)
 $$
-{% endtab %}
-{% endtabs %}
+
 
 ## FAQ
 
