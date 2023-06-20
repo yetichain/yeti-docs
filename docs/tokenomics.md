@@ -151,6 +151,10 @@ In YETI, the YETS coin will be used to pay commissions. The maximum commission c
 
 An activity expansion is usually accompanied by coin price growth. Thus, with the increase in network activity, the relative price of YETS will grow, but the absolute value of the transaction cost expressed in YETS will decrease. This will allow the fees to remain at an acceptable level relative to the real world even at the peak of the bull run.
 
+
+![image](img/yeti-4.png)
+
+
 #### YETS Utility
 
 All transaction fees paid in YETS are immediately burned. The base fee rate per transaction is 1 YETS. But since the volume of transactions can be large, too many YETSs can be burned in a short period. Therefore, as the number of transactions increases, the fee is reduced so that no more than 1% of the total YETS supply is burned daily.
