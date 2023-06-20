@@ -1,15 +1,13 @@
 ---
 id: architecture
-title: Architecture
-sidebar_label: Architecture
+title: 💠 Architecture
+sidebar_label: 💠 Architecture
 description: New architecture for decentralized systems.
 keywords:
   - yeti
   - YET
   - decentralized
 ---
-
-# 💠 Public Cluster
 
 ## **The rise and fall of peer-to-peer architecture.**
 
