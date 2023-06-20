@@ -11,14 +11,14 @@ async function addMaticNetwork() {
       method: "wallet_addEthereumChain",
       params: [{
         chainId: "0x00",
-        rpcUrls: ["https://antofy.io"],
-        chainName: "Antofy",
+        rpcUrls: ["https://yetichain.com"],
+        chainName: "yeti",
         nativeCurrency: {
           name: "Ether",
           symbol: "ETH",
           decimals: 18
         },
-        blockExplorerUrls: ["https://antofyscan.com/"]
+        blockExplorerUrls: ["https://yetiscan.com/"]
       }]
     });
   } catch (error){
@@ -77,7 +77,7 @@ function Buttonizer({linkUrl}) {
       </button>
       <a href={linkUrl} target="_blank" className="button is-icon is-secondary w-inline-flex">
         <div className="button-icon_left-element is-icon-medium">
-          <div className="text-size-small">Bridge to Antofy</div>
+          <div className="text-size-small">Bridge to YETI</div>
         </div>
         <div className="button-icon_right-element is-icon-medium">
           <div className="icon-1x1-medium w-embed">
@@ -103,16 +103,16 @@ function Home() {
             <div className="row justify-content-center">
               <div className="col-lg-8 pop-text">
                 <h2 className="mt-0">
-                 Antofy <span className="white-text">for Everyone</span>
+                 YETI <span className="white-text">for Everyone</span>
                 </h2>
-                <h4 className="mt-0">Scalability with Antofy <span className="white-text">performance and security</span></h4>
+                <h4 className="mt-0">Scalability with YETI <span className="white-text">performance and security</span></h4>
                 <p className="lead grey-text">
-                  Antofy Documentation is the documentation portal providing 
+                  YETI Documentation is the documentation portal providing 
                   extensive documentation, community resources, and guides for enthusiasts 
-                  and developers interested in learning about or building on Antofy.
+                  and developers interested in learning about or building on YETI.
                 </p>
                 <div class="padding-bottom custom-padding"></div>
-                <Buttonizer linkUrl={'https://bridge.antofy.io'} />
+                <Buttonizer linkUrl={'https://bridge.yetichain.com'} />
               </div>
               <div className="col-lg-4">
                 <div className="tabs_animation-wrapper"><iframe src="https://player.vimeo.com/video/791154651?h=f4d511386d&badge=0&autopause=0&player_id=0&app_id=58479&loop=1&autoplay=1&background=1" frameBorder="0" allow="autoplay" className="tabs-frame" title="Hero" data-ready="true" width="500"height="450" /></div>
@@ -131,7 +131,7 @@ function Home() {
             <br/>
           </div>
           <div className="row" style={{marginBottom: 32}}>
-            <a href="https://antofy.com" style={{color: "white", display: "inline-flex"}} className="pop-text">
+            <a href="https://yetichain.com" style={{color: "white", display: "inline-flex"}} className="pop-text">
               <h1>Ecosystem <span className="white-text">Apps</span></h1>
               <span className="button-icon_right-element is-icon-medium">
                 <div className="w-embed">
@@ -155,7 +155,7 @@ function Home() {
                     <div className="call-to-action">
                       <div>
                         NETWORK STATUS
-                        <p className="c2a-text">You can check the live status of Antofy network using the following links for Mainnet Beta and Public Testnet.</p>
+                        <p className="c2a-text">You can check the live status of YETI network using the following links for Mainnet Beta and Public Testnet.</p>
                       </div>
                       <div>
                         <a href="#" target="_blank" class="button white-button" style={{marginRight: 8}}>Mainnet Beta</a>
@@ -179,7 +179,7 @@ function Home() {
                 <div class="newsletter-section_max-width">
                   <div class="tiny-text">STAY UP TO DATE</div>
                   <div class="padding-bottom padding-xsmall"></div>
-                  <h3 class="heading-style-h4"><a href="https://twitter.com/0xantofy" target="_blank"><span className="white-text">Fallow Twitter</span><span class="newsletter_link-icon" /></a></h3>
+                  <h3 class="heading-style-h4"><a href="https://twitter.com/yetichain" target="_blank"><span className="white-text">Fallow Twitter</span><span class="newsletter_link-icon" /></a></h3>
                 </div>
               </div>
             </div>
