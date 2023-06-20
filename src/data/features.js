@@ -1,6 +1,6 @@
 export const firstRow = [
     {
-        title: "Introduction to Antofy",
+        title: "Introduction to YETI Chain",
         linkUrl: "/docs/introduction",
         imageUrl: 'https://player.vimeo.com/video/791154970?h=1a9cdd3763&badge=0&autopause=0&player_id=0&app_id=58479&loop=1&autoplay=1&background=1',
     },
@@ -33,27 +33,27 @@ export const firstRow = [
 
 export const secondRow = [
     {
-        title: "Antofy Main",
-        linkUrl: "https://antofy.com",
+        title: "YETI Main",
+        linkUrl: "https://yetichain.com",
     },
     {
-        title: "Antofy Blockchain",
-        linkUrl: "https://antofy.io",
+        title: "YETI Blockchain",
+        linkUrl: "https://yetichain.com",
     },
     {
-        title: "Antofy Exchange",
-        linkUrl: "https://antofy.finance",
+        title: "YETI Exchange",
+        linkUrl: "https://yetidex.com",
     },
     {
-        title: "Antofy Money",
-        linkUrl: "https://antofy.money",
+        title: "YETI Finance",
+        linkUrl: "https://yetichain.finance",
     },
     {
-        title: "Antofy games",
-        linkUrl: "https://antofy.games",
+        title: "YETI AI",
+        linkUrl: "#",
     },
     {
-        title: "Antofy Staking",
-        linkUrl: "https://staking.antofy.finance/",
+        title: "YETI Staking",
+        linkUrl: "#",
     },
 ];
