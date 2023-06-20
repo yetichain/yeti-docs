@@ -1,7 +1,7 @@
 ---
 id: funding
-title: Funding
-sidebar_label: Funding
+title: 💸 Funding
+sidebar_label: 💸 Funding
 description: Decentralization through crowdfunding.
 keywords:
   - yeti
@@ -9,8 +9,6 @@ keywords:
   - blockchain
   - token
 ---
-
-# 💸 Funding
 
 In today's world, many new blockchains are emerging. The community perceives them as an easy way to make money on investments. The significant factors for investment decisions are: what VCs take part in the project, what services will switch to this blockchain, how much marketing money is in the budget, and so on.&#x20;
 
