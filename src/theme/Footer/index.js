@@ -143,7 +143,7 @@ function Footer() {
             ))}
           </div>
           <div className="text--center" style={{color: "#67666e"}}>
-            Copyright © {new Date().getFullYear()} | Antofy Labs LLC.
+            Copyright © {new Date().getFullYear()} | Yeti Chain.
           </div>
       </div>
     </footer>
