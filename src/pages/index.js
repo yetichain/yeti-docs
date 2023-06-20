@@ -116,7 +116,7 @@ function Home() {
                 <Buttonizer linkUrl={'https://bridge.yetichain.com'} />
               </div>
               <div className="col-lg-4">
-                <div className="tabs_animation-wrapper"><iframe src="https://www.youtube.com/embed/bbFXF2V_Cbk" frameBorder="0" allow="autoplay" className="tabs-frame" title="Hero" data-ready="true" width="500"height="450" /></div>
+                 <div className="tabs_animation-wrapper"><iframe src="https://player.vimeo.com/video/791154651?h=f4d511386d&badge=0&autopause=0&player_id=0&app_id=58479&loop=1&autoplay=1&background=1" frameBorder="0" allow="autoplay" className="tabs-frame" title="Hero" data-ready="true" width="500"height="450" /></div>
               </div>
             </div>
             </section>
@@ -171,7 +171,7 @@ function Home() {
         <section className="newsletter">
           <div className="newsletter_anim-wrapper pb_intersection">
             <div className="animation_embed w-embed w-iframe">
-              <iframe src="https://player.vimeo.com/video/791149043?h=a0b62c3daa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;loop=1&amp;autoplay=1&amp;background=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" style={{position: 'absolute', top:0, left:0, width:'100%', height:'100%'}} title="Hero" data-ready="true"></iframe>    
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/bbFXF2V_Cbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
           </div>
           <div className="padding-global">
