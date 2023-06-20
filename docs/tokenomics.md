@@ -11,10 +11,6 @@ keywords:
 ---
 
 ## One currency is not enough
-
-  <div align="center">
-  <img src={useBaseUrl("img/yeti-1.jpg")} width="400" height="400"/>
-  </div>
   
 Blockchain can be seen as a system that provides a service for its customers to store data in a decentralized manner. The commission for user transactions acts as payment for the work of nodes. Unlike the real world, where prices are set in fiat currencies, fees for the blockchain service are paid in coins stored within the system. But what kind of changes does this entail?
 
