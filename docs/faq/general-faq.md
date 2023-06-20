@@ -1,10 +1,10 @@
 ---
 id: general-faq
-title: 🧩 General FAQs related to Antofy Blockchain
+title: 🧩 General FAQs related to YETI Blockchain
 sidebar_label: 🧩 General FAQs
-description: This document compiles some of the general frequently asked questions related to the Antofy Blockchain.
+description: This document compiles some of the general frequently asked questions related to the YETI Blockchain.
 keywords:
-  - antofy
+  - yeti
   - general faq
   - token
   - RPC
@@ -13,6 +13,6 @@ keywords:
   - open source
 ---
 
-This document compiles some of the frequently asked questions related to the Polygon zkEVM. For more details, check out [this documentation](/introduction.md).
+This document compiles some of the frequently asked questions related to the YETI Chain. For more details, check out [this documentation](/introduction.md).
 
 ---
