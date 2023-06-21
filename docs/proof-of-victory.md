@@ -97,7 +97,7 @@ The Proof of Victory consensus prevents this by spreading information about the 
 
 #### 1. Each block has its own unique parameter of power
 
-Unlike peer-to-peer systems that require consensus with built-in protection against Sybil attacks (such as PoW or PoS), the public cluster architecture allows the next block to be determined based on several independent criteria. In Elysium, the following parameters are considered when calculating block power:
+Unlike peer-to-peer systems that require consensus with built-in protection against Sybil attacks (such as PoW or PoS), the public cluster architecture allows the next block to be determined based on several independent criteria. In YETI, the following parameters are considered when calculating block power:
 
 1. The size of the block's transaction count. If one Worker packs an order of magnitude more transactions than others, it has a much better chance of winning a reward.
 2. The node queue. If a node created the previous block in the chain, it would not add to the power, and on the contrary, the further back in time the node made its last block, the more value will be added to the block power.
@@ -125,7 +125,7 @@ Malicious nodes can either increase the delay or decrease it. However, increasin
 And decreasing the delay by a malicious node will play a minimal role in the overall propagation time of the block since most Keepers working according to the rules will still delay it.
 
 {% hint style="info" %}
-While testing Elysium to prevent the harm that can still be caused by malicious nodes accelerating blocks, we will experiment with synchronizing the delay. Roughly speaking, if the first notification was received 500ms ago, the block passed through 3 nodes after that, and the delay should be 200ms, then it is evident that the current Keeper should delay the block an additional 100ms.
+While testing YETI to prevent the harm that can still be caused by malicious nodes accelerating blocks, we will experiment with synchronizing the delay. Roughly speaking, if the first notification was received 500ms ago, the block passed through 3 nodes after that, and the delay should be 200ms, then it is evident that the current Keeper should delay the block an additional 100ms.
 {% endhint %}
 
 #### 4. Block, which several Keepers have already chosen, acquires the candidate status
