@@ -18,6 +18,7 @@ module.exports = {
     "features",
     "funding",
     "proof-of-victory",
+    "hash-ring",
     {
       type: "category",
       label: "YETI Protocol",
