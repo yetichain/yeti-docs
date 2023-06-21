@@ -84,7 +84,7 @@ module.exports = {
       className: "sidebar-title",
     },
     "positioning",
-    "bridge-to-yeti",
+    "proof-of-victory",
     {
       type: "category",
       label: "YETI",
@@ -92,7 +92,7 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap"],
+      items: ["funding", "roadmap" "proof-of-victory"],
     },
     "tokenomics",
     "features",
