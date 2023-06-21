@@ -94,7 +94,7 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap" "proof-of-victory"],
+      items: ["funding", "roadmap", "proof-of-victory"],
     },
     "tokenomics",
     "features",
