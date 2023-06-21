@@ -3,7 +3,7 @@
 Yeti Chain Documentation is the documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building on Yeti.
 
 
-## Contribute to Yeti
+## Contribute to Yeti Chain
 
 We believe one of the things that makes Yeti Chain unique is its coherent design, and we seek to retain this defining 
 characteristic across all our solutions. We have defined some guidelines to ensure new contributions only ever enhance the 
