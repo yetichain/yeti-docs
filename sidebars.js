@@ -92,7 +92,7 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap" "proof-of-victory"],
+      items: ["funding", "roadmap" "proof-of-victory" "hash-ring"],
     },
     "tokenomics",
     "features",
