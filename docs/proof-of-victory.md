@@ -147,15 +147,13 @@ Due to the notification of the vote spread without delay, nodes, even those that
 
 If a node, upon receiving a notification, finds out that more than half of the Keepers have chosen the same block, then it can be sure that this block is finalized. After all, other Keepers will also know this sooner than the stronger block could theoretically reach the required level of agreement thanks to accumulating delays while nodes vote.
 
-{% hint style="info" %}
-The Proof of Victory consensus can be considered as a war on a world map. Each Keeper is a different country, and the blocks that enter the assertion layer through a particular Keeper act as its army.
+*The Proof of Victory consensus can be considered as a war on a world map. Each Keeper is a different country, and the blocks that enter the assertion layer through a particular Keeper act as its army.*
 
-The stronger the army, the less it has to rest after each battle. When a new country is conquered, messengers immediately rush in all directions carrying information about it.
+*The stronger the army, the less it has to rest after each battle. When a new country is conquered, messengers immediately rush in all directions carrying information about it.*
 
-If a country takes over 5% of the territories, it becomes an empire, and the armies of ordinary countries surrender to it without a fight.
+*If a country takes over 5% of the territories, it becomes an empire, and the armies of ordinary countries surrender to it without a fight.*
 
-When the strongest empire captures 51% of the territories, all other countries will know that based on the messengers' information. In this case, there is no need to continue the war since the winner is already evident to all. In other words, conquering 51% of territories can be seen as proof of victory for all of the parties.
-{% endhint %}
+*When the strongest empire captures 51% of the territories, all other countries will know that based on the messengers' information. In this case, there is no need to continue the war since the winner is already evident to all. In other words, conquering 51% of territories can be seen as proof of victory for all of the parties.*
 
 ## 51% attack
 
@@ -171,15 +169,13 @@ Since disruption will be evident to everyone, we propose considering such an int
 
 All major blockchains have had soft forks due to critical bugs, so there is nothing terrible about that. What is scarier is facing a situation everyone thought impossible. Generally speaking, consensus without finalization can be compared to traveling in a cab with broken brakes, whose driver is unaware of it.
 
-{% hint style="info" %}
-The mere fact of declaring how the problem of gaining control over Keepers will be solved prevents this attack type. After all, such attacks are aimed not at making a profit but at destroying the system. So, if it is known in advance that the system will continue to work anyway, then there is no point in spending resources to overcome the Sybil attacks defense.
-{% endhint %}
+*The mere fact of declaring how the problem of gaining control over Keepers will be solved prevents this attack type. After all, such attacks are aimed not at making a profit but at destroying the system. So, if it is known in advance that the system will continue to work anyway, then there is no point in spending resources to overcome the Sybil attacks defense.*
 
 ## Summary
 
 Proof of Victory fundamentally differs from other popular consensuses since it is not based on protection against Sybil attacks.
 
-The public cluster architecture allows Keepers to choose a block based on criteria that are more useful for the system performance and fairness: the speed at which Workers create blocks, the number of transactions in the block, and the order of nodes participating in SKY issuance.&#x20;
+The public cluster architecture allows Keepers to choose a block based on criteria that are more useful for the system performance and fairness: the speed at which Workers create blocks, the number of transactions in the block, and the order of nodes participating in YET issuance.&#x20;
 
 In addition, the small number of Keepers allows the consensus to be very fast - we expect blocks to be finalized every one or two seconds.&#x20;
 
