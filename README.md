@@ -1,6 +1,6 @@
 
 
-Yeti Chain Documentation is the documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building on Yeti.
+Yeti Chain documentation hub providing extensive documentation, community resources, and guides for enthusiasts and developers interested in learning about or building on Yeti.
 
 
 ## Contribute to Yeti Chain
