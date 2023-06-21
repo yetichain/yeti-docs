@@ -18,7 +18,6 @@ module.exports = {
     "features",
     "funding",
     "proof-of-victory",
-    "hash-ring",
     {
       type: "category",
       label: "YETI Protocol",
@@ -94,7 +93,7 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap" "proof-of-victory" "hash-ring"],
+      items: ["funding", "roadmap" "proof-of-victory"],
     },
     "tokenomics",
     "features",
