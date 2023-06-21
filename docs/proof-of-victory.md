@@ -19,7 +19,7 @@ In mathematics, the expressions 3-4+5 and 3+5-4 are equivalent, but in accountin
 
 Suppose there is no single source of truth about the order of operations. In that case, the balance of the same account on two computers will quickly become different, as each will account for operations in its own order.
 
-![yeti-1](img/yeti-11.webp)
+![yeti-11](img/yeti-11.webp)
 
 After all, the same transaction order is the main problem in public decentralized accounting systems. And before Bitcoin, setting the same transaction order for multiple nodes seemed impossible for two reasons.
 
@@ -34,7 +34,7 @@ But when transactions appear from many sources, and the balance of accounts can 
 Satoshi Nakamoto solved these problems with the blockchain concept. The general idea is that all transactions are grouped into blocks that form a consistent chain. A new block to join the chain must contain a key that is not known in advance and can only be obtained by brute force.
 
 
-![yeti-1](img/yeti-12.webp)
+![yeti-12](img/yeti-12.webp)
 
 This way, any node can set its order of yet unaccounted operations. The calculations of the key by the nodes act as a protection of the canonical operation history against Sybil attacks.
 
@@ -97,7 +97,7 @@ Unlike peer-to-peer systems that require consensus with built-in protection agai
 1. The size of the block's transaction count. If one Worker packs an order of magnitude more transactions than others, it has a much better chance of winning a reward.
 2. The node queue. If a node created the previous block in the chain, it would not add to the power, and on the contrary, the further back in time the node made its last block, the more value will be added to the block power.
 
-![yeti-1](img/yeti-13.png)
+![yeti-13](img/yeti-13.png)
 
 The power parameter based on the node queue and the number of packed transactions balances decentralization and performance. When the network load is high, the blocks containing many transactions formed by high-performance nodes will have a better chance of winning. When the activity decreases, all Workers, regardless of their performance, will pack approximately the same number of transactions, so the node's place in the queue will play a crucial role.
 
@@ -105,7 +105,7 @@ The power parameter based on the node queue and the number of packed transaction
 
 Each Keeper must memorize one block with the most power. When Keeper receives another block, they are compared. If the received block has more power, the Keeper memorizes it.
 
-![yeti-1](img/yeti-14.gif)
+![yeti-14](img/yeti-14.gif)
 
 #### 3. When a memorized block is replaced, Keeper sends the notification of the change instantly, while the block is sent with a delay
 
@@ -113,7 +113,7 @@ When Keeper replaces a memorized block, it instantly sends a notification to its
 
 Since a block is forwarded many times, its delay at each Keeper eventually sums up. For example, if the delay is 100ms (the average message forwarding time over the Internet), then the cumulative delay will be 1s when forwarding it sequentially ten times. It means that the notification from the first Keeper will reach the tenth, on average, one second earlier than the block itself.
 
-![yeti-1](img/yeti-15.gif)
+![yeti-15](img/yeti-15.gif)
 
 Malicious nodes can either increase the delay or decrease it. However, increasing the waiting time will not change anything, as the block will propagate faster along workarounds.
 
@@ -127,7 +127,7 @@ While the block is transferred between Keepers, it collects their signatures. Ea
 
 A block with candidate status is considered stronger than a block without this status, meaning that the power parameter plays a role only when both blocks being compared either have candidate status or do not have it.
 
-![yeti-1](img/yeti-16.gif)
+![yeti-16](img/yeti-16.gif)
 
 When only candidate blocks remain on the assertion layer, it becomes impossible for a new block to be accepted by any Keeper since even the strongest block will lose to a weaker candidate, if it was created with a delay.
 
@@ -143,7 +143,7 @@ The main difficulty of consensus with instant finalization is to know which bloc
 
 Due to the notification of the vote spread without delay, nodes, even those that have not yet taken part in the voting for the winning block, learn about achieved consensus.
 
-![yeti-1](img/yeti-17.png)
+![yeti-17](img/yeti-17.png)
 
 If a node, upon receiving a notification, finds out that more than half of the Keepers have chosen the same block, then it can be sure that this block is finalized. After all, other Keepers will also know this sooner than the stronger block could theoretically reach the required level of agreement thanks to accumulating delays while nodes vote.
 
