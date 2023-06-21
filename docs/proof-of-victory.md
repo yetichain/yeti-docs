@@ -25,7 +25,7 @@ First, real-world time cannot be relied upon since it is not perfectly synchroni
 
 Second, each node can produce its operations since they are equal. And, if the rate at which new transactions appear is comparable to the rate at which information spreads between nodes, then each node will eventually form its own unique order of operations. The following image shows how two operations performed with a time difference less than the communication speed between two nodes are accounted for in mirrored order.
 
-<figure><img src="../.gitbook/assets/Order of transactions.webp" alt=""><figcaption></figcaption></figure>
+[]
 
 When there is a single source of transaction order or when the result can take negative values, the problem of data synchronization between nodes is much easier.
 
