@@ -17,7 +17,7 @@ module.exports = {
     "positioning",
     "features",
     "funding",
-    "proof-of-victory",
+    "consensus-mechanism",
     {
       type: "category",
       label: "YETI Protocol",
@@ -93,7 +93,7 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap", "proof-of-victory"],
+      items: ["funding", "roadmap", "consensus-mechanism"],
     },
     "tokenomics",
     "features",
