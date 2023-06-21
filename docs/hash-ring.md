@@ -40,7 +40,7 @@ And as the number of network nodes grows, the problem will only get worse becaus
 
 In addition, as the complexity of the map increases, the search for the following route at each of its intermediate points will also become [exponentially](https://en.wikipedia.org/wiki/Vehicle\_routing\_problem) harder. In other words, the wider the maze, the more difficult the computational task is to find the way out. Moreover, since the labyrinth is also constantly changing, the problem of finding the optimal route will have to be solved at each point.
 
-> When sending a message to a particular destination over a map that describes a relatively wide historical topology that keeps changing, either a centralized map is needed (where the information is updated faster than the average message travels along the route), or the message will likely never reach the target.
+When sending a message to a particular destination over a map that describes a relatively wide historical topology that keeps changing, either a centralized map is needed (where the information is updated faster than the average message travels along the route), or the message will likely never reach the target.
 
 #### Overlay routing
 
@@ -89,7 +89,7 @@ Moreover, even if a malicious node does not do its forwarding work, messages wil
 
 Not surprisingly, this approach was used by Bitcoin. But as in all other areas, the price for reliability was a decrease in efficiency. Since the number of working nodes is unknown and, as a result, it is not clear how long it takes to deliver a block to most nodes, Bitcoin's design assumes an excessive ten-minute delay between blocks.
 
-> Forwarding messages to all neighbors does not imply the possibility of addressable message delivery, which makes effective communication between two nodes impossible. After all, any message will eventually pass through all possible routes. And the network load will grow exponentially as the number of nodes increases.
+Forwarding messages to all neighbors does not imply the possibility of addressable message delivery, which makes effective communication between two nodes impossible. After all, any message will eventually pass through all possible routes. And the network load will grow exponentially as the number of nodes increases.
 
 ## DEB theorem
 
