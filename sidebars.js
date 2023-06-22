@@ -17,7 +17,9 @@ module.exports = {
     "positioning",
     "features",
     "funding",
+    "hash-ring",
     "consensus-mechanism",
+    "statechain",
     {
       type: "category",
       label: "YETI Protocol",
@@ -84,8 +86,12 @@ module.exports = {
       value: "Developer Guides",
       className: "sidebar-title",
     },
-    "positioning",
-    "proof-of-victory",
+   
+    "introduction",
+    "architecture",
+    "hash-ring",
+    "consensus-mechanism",
+    "statechain",
     {
       type: "category",
       label: "YETI",
@@ -93,11 +99,10 @@ module.exports = {
         type: "generated-index",
       },
       collapsed: false,
-      items: ["funding", "roadmap", "consensus-mechanism"],
+      items: ["features","funding", "roadmap", "hash-ring","consensus-mechanism", "statechain","tokenomics" ],
     },
-    "tokenomics",
-    "features",
-    "architecture",
+    
+    
   ],
 
   faq: [
@@ -108,7 +113,6 @@ module.exports = {
     },
     "faq/general-faq",
     "faq/protocol-faq",
-    "faq/evm-faq",
     "risk-disclosure",
   ],
 };

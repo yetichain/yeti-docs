@@ -235,7 +235,7 @@ module.exports = {
           type: 'docSidebar',
           position: 'left',
           sidebarId: 'specifications',
-          label: 'Specs',
+          label: 'Introduction',
           target: '_self',
         },
         {
