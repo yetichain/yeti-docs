@@ -20,7 +20,7 @@ This documentation is still a **Work In Progress**. Some topics have been discus
 
 **Welcome to the YETI Documentation portal.**
 
-YETI is an L1 blockchain designed from the ground up to solve the current problems faced by existing blockchains. We have reimagined every aspect of the technology, from tokenomics to consensus, to create a fundamentally new distributed system.
+YETI is a L1 blockchain designed from the ground up to solve the current problems faced by existing blockchains. We have reimagined every aspect of the technology, from tokenomics to consensus, to create a fundamentally new distributed system.
 This documentation is the only reliable source of the YETI architecture. We are still polishing the system's nuances, so the documentation is constantly updated and supplemented.
 
 ## Get started

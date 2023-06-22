@@ -1,8 +1,8 @@
 ---
 id: consensus-mechanism
 title: ⚔ Consensus Mechanism
-sidebar_label: ⚔ Consensus Mechanism
-description: Consensus Mechanism.
+sidebar_label: ⚔ Consensus
+description: Proof of Victory consensus.
 keywords:
   - YETI
   - yet

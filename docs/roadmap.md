@@ -1,7 +1,7 @@
 ---
 id: roadmap
-title: 📍 Roadmap
-sidebar_label: 📍 Roadmap
+title: 💡Roadmap
+sidebar_label: 💡Roadmap
 description: The journey to the Moon and beyond.
 keywords:
   - yeti
@@ -31,7 +31,7 @@ keywords:
 
 * [x] Publication of the Tokenomics section
 * [x] Blockchain selection for ABN token
-* [x] Detailing of the Antofy blockchain architecture
+* [x] Detailing of the YETI blockchain architecture
 * [x] Development of docs Portal
 * [ ] YET Token Binance/Ethereum Fairlaunch
 * [ ] YETI First CEX Listing

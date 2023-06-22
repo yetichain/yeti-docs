@@ -1,7 +1,7 @@
 ---
 id: tokenomics
-title: 📍 Tokenomics
-sidebar_label: 📍 Tokenomics
+title: 📍Tokenomics
+sidebar_label: 📍Tokenomics
 description: The journey to the Moon and beyond.
 keywords:
   - yeti
