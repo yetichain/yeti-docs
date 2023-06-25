@@ -36,24 +36,21 @@ For in depth tutorials on the underlying aspects of the YETI Network, check out 
 
 ## Why YETI?
 
-YETI is fast, scalable, has zero transaction costs, and does no wasteful mining.
+YETI is fast, scalable, uses game theory consensus mechanism, and does no wasteful mining.
 
-YETI chain features next-gen blockchain technology, utilizing POD (Proof of Defeating), extensible EVM and state of the art cryptography.
+YETI chain features next-gen blockchain technology, utilizing POV (Proof of Victory), extensible EVM and state of the art cryptography.
 
 ## Introduction to the YETI Platform
 The YETI Platform is a unified infrastructure platform based on technical, traffic, and ecological resources and will be gradually opened to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. The YETI Platform is an EVM compatible blockchain that solves the biggest problem in the Dapp industry. The YETI Platform will provide global developers with a series of diverse, innovative facilities and services.
 
 ## Solving market's biggest problem
-Decentralized applications (Dapps) running on any blockchain contribute to the biggest use case of the blockchain industry. These Dapps are heavily sabotaged by the traditional blockchain's transaction speed. This really does not let heavy Dapps like gaming, metaverse, NFTs, etc. function to their full potential. The traditional blockchain simply can not provide the transaction speed that they need. That is the reason why these types of Dapps can decide to move away from blockchain altogether and adopt a centralised web application approach. Our blockchain solves this problem by having a high TPS capacity using the mighty POA consensus mechanism. Apart from this, our blockchain also heavily emphasizes the security of the network through the network of the validators responsible for confirming the transactions. The speed and security will create huge advantages for the Dapps, so they can carry on their innovative development in the blockchain ecosystem.
+Decentralized applications (Dapps) running on any blockchain contribute to the biggest use case of the blockchain industry. These Dapps are heavily sabotaged by the traditional blockchain's transaction speed. This really does not let heavy Dapps like gaming, metaverse, NFTs, etc. function to their full potential. The traditional blockchain simply can not provide the transaction speed that they need. That is the reason why these types of Dapps can decide to move away from blockchain altogether and adopt a centralised web application approach. Our blockchain solves this problem by having a high TPS capacity using the mighty POV consensus mechanism. Apart from this, our blockchain also heavily emphasizes the security of the network through the network of the Validators and Node responsible for confirming the transactions. The speed and security will create huge advantages for the Dapps, so they can carry on their innovative development in the blockchain ecosystem.
 
 ## Declaration
 To empower the decentralised applications (Dapps) ecosystem
 
 ## Vision
 YETI's vision is not only to be the best public blockchain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, YETI is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
-
-## Model
-The endogenous token on the chain is $ABN; with the "0" fee transactions.
 
 ## Cross-Chain
 Assets such as ETH, BNB and stable coins can be mapped to YETI by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on YETI.
@@ -71,7 +68,7 @@ YETI encourages developers to provide more decentralized cross-chain solution.
 ### Financial Support
 - YETI will set up a special fund to invest, support and incentivize high-potential developers.
 - YETI will launch a variety of developer activities and competitions to discover and fund potential developers.
-- In order to reduce the cost of users on YETI Dapp, the YETI meta transaction function will reduce the gas fee of users holding $BNI in a step-wise manner.
+- In order to reduce the cost of users on YETI Dapp, the YETI transaction function will reduce the gas fee of users holding $YET in a step-wise manner.
 
 ## Traffic Support
 YETI will strongly support the development of YETI ecosystem:
