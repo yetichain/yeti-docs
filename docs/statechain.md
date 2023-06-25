@@ -111,9 +111,7 @@ This way, in YETI, a newly joined node only needs to get a pair of blocks agreed
 
 And unlike Ethereum, YETI will not store the data and logic of user tokens, which will reduce its size by several orders of magnitude.
 
-{% hint style="info" %}
-The exact size of the state will become apparent during development, but we will do our best to make it megabytes in size when there are a million users.
-{% endhint %}
+*The exact size of the state will become apparent during development, but we will do our best to make it megabytes in size when there are a million users.*
 
 The small amount of data required for a new member to connect to the blockchain will make dynamic node rotation in the public cluster possible and allow Workers to run the blockchain node on home computers, even when there are millions of active users.
 
