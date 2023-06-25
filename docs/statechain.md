@@ -2,17 +2,12 @@
 id: statechain
 title: ⛓ Statechain
 sidebar_label: ⛓ Statechain
-description: Address messaging between participants
+description: Expanding the blockchain concept
 keywords:
   - yeti
   - yet
   - token
 ---
----
-description: Expanding the blockchain concept
----
-
-# ⛓ Statechain
 
 ## **What makes popular blockchains so huge?**
 
