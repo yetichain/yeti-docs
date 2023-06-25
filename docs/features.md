@@ -40,7 +40,7 @@ Thus, instant finalization, true scalability, and fast communication through a s
 
 ## Innovative Tokenomics
 
-YETI tokenomics is built on the use of two different coins. The purpose of the sABN coin is to be a stabel coin, and the ABN coin will be needed to issue sABN. This model separates blockchain investments, which solves many problems at once.
+YETI tokenomics is built on the use of two different coins. The purpose of the sYET coin is to be a stabel coin, and the YET coin will be needed to issue YETs. This model separates blockchain investments, which solves many problems at once.
 
 Separating tokenomics into inflationary and deflationary coins accomplishes a crucial goal. The interests of investors, users, and validators align since they all benefit from network activity growth.
 
