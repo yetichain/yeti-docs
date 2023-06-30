@@ -100,7 +100,7 @@ your PR. Note that you must have a GitHub account and an understanding of Markdo
     git push
     ```
 
-4. Submit a PR against the `main` branch of the `antofy/antofy-docs` repo.
+4. Submit a PR against the `main` branch of the `yetichain/yeti-docs` repo.
    
 5. Add a title to your PR with appropriate labels.
    > For example, if you want to suggest edits to the "Develop" page, name your PR: *update: develop.md*.
@@ -120,7 +120,7 @@ You can apply UI changes, sidebar, and configuration design through the followin
 
 You can easily submit an edit suggestion. Note that you must have a GitHub account and good knowledge of Markdown syntax.
 
-1. Navigate to the [Antofy Documentation page](https://docs.antofy.io) that you want to edit.
+1. Navigate to the [YETI Chain Documentation page](https://docs.yetichain.com) that you want to edit.
 
 2. Scroll down until the end of that page.
 
@@ -148,7 +148,7 @@ Acceptable PRs will be approved & merged into the `main` branch.
 
 ## Submit an Issue
 
-- Create a [new issue](https://github.com/sntofy/antofy-docs/issues/new/choose) to report a bug, request a feature, 
+- Create a [new issue](https://github.com/yetichain/yeti-docs/issues/new/choose) to report a bug, request a feature, 
   or suggest changes.
 
 - Comment on the issue if you want to be assigned to it so [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-commenters/).
