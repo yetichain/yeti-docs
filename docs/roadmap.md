@@ -30,7 +30,7 @@ keywords:
 ## Q2 - 2023
 
 * [x] Publication of the Tokenomics section
-* [x] Blockchain selection for ABN token
+* [x] Blockchain selection for YET token
 * [x] Detailing of the YETI blockchain architecture
 * [x] Development of docs Portal
 * [ ] YET Token Binance/Ethereum Fairlaunch
