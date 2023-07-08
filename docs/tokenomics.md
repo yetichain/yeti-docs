@@ -102,7 +102,7 @@ YET is used by Grinder for YETS issuance. Anyone can put YET coins in the Grinde
 The percantage of YET burned depends on the amount of YETs put in Grinder for YETS issuance. The formula is:
 
 $$
-YET_{\%burned}\;=\;100\cdot\frac{YET_{grindered}}{YET_{grindered}+10^7}
+YET_{burned}=100\cdot\frac{YET_{grindered}}{YET_{grindered}+10^7}
 $$
 
 When the number of YETs used for YETS issuance exeeds 990 000 000 there will remain only 1 000 000 of YET coins and they will stop burning.
