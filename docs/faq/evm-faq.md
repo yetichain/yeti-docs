@@ -26,9 +26,3 @@ The ultimate goal is not **compatibility**. The ultimate goal is **equivalence**
 3. **blockchain ultimately benefits from the security and decentralization of Ethereum**, since transactions are still finalizing on Ethereum.
 4. Allows YETI Blockchain to **benefit from the already vibrant and active Ethereum community**.
 5. Allows for **significant and quick dApp adoption**, since apps built on Ethereum today are designed to be compatible.
-
-### Why is EVM Equivalence needed?
-
-Ethereum isn’t just a blockchain. It’s a rich ecosystem of smart contracts, developer tools, infrastructure, and wallets. It’s a vibrant community of developers, auditors, and users.
-
-The best way to scale Ethereum is to strive to maintain equivalence with this ecosystem. YETI Blockchain will give users and developers an almost identical experience to Ethereum L1 with a significant scalability improvement.
